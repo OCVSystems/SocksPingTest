@@ -1,0 +1,6 @@
+C:\Source\GitHub\Socks1\Socks1\bin\Debug\Socks1.exe.config
+C:\Source\GitHub\Socks1\Socks1\bin\Debug\Socks1.exe
+C:\Source\GitHub\Socks1\Socks1\bin\Debug\Socks1.pdb
+C:\Source\GitHub\Socks1\Socks1\obj\Debug\Socks1.csprojResolveAssemblyReference.cache
+C:\Source\GitHub\Socks1\Socks1\obj\Debug\Socks1.exe
+C:\Source\GitHub\Socks1\Socks1\obj\Debug\Socks1.pdb
